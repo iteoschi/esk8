@@ -7,3 +7,7 @@ You can find the 3D-models for the remote (STL files) on Thingiverse: https://ww
 I have made a Wiki here on Github, with a few tips and guides on how to build the remote. The Wiki can be found here: https://github.com/SolidGeek/nRF24-Esk8-Remote/wiki
 
 Donation link: https://www.paypal.me/solidgeek
+
+## Docs
+
+See `docs/INDEX.md` for the new architecture notes, settings, and user guide.
